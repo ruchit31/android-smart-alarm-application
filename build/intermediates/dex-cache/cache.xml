@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\database\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidStudioProjects\database\app\build\intermediates\pre-dexed\debug\classes-9a983a28016f1331892161efb7df59665d292cf6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\database\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidStudioProjects\database\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d0afe60e640d0cfb18b8ff18a87e61512e88caf0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\database\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\AndroidStudioProjects\database\app\build\intermediates\pre-dexed\debug\classes-8d7bf14cdd78d39467ed1cf2142c3f4d28d32f12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruchit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidStudioProjects\database\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e9ca58152542ea0632d8a90f2659bca18fa67b1c.jar" />
+    </item>
+
+</items>
